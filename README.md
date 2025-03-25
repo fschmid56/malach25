@@ -51,10 +51,3 @@ account. I highly recommend to use Weights & Biases, but of course feel free to 
 After several epochs of training and validation you should be able to find the logged metrics on your W&B account. 
 
 Don't expect any meaningful results, the only thing that proofs your setup to work is the decreasing training loss.
-
-## How to proceed?
-
-* Start with this codebase and modify it according to your needs (the task you have chosen)
-* We recommend using [PyCharm](https://www.jetbrains.com/de-de/pycharm/) for programming
-* Download the dataset corresponding to your task (pay attention to the recommended train-test splits)
-* Try to reproduce the baseline system
